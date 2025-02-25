@@ -12,7 +12,10 @@ app = Flask(__name__)
 # Load environment variables
 load_dotenv()
 
-BITRIX_WEBHOOK_URL = f"{bitrix_url}/bizproc.workflow.start"
+BITRIX_URL = os.getenv('BITRIX_URL')
+
+
+BITRIX_WEBHOOK_URL = f"{BITRIX_URL}/bizproc.workflow.start"
 
 
 
