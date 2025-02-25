@@ -89,15 +89,17 @@ WORKFLOW_IDS = {
     "workflow10": "1218", #quinto boleto(1.2)
     "workflow11": "1314", #workflow para o site
     "workflow12": "1294", #workflow para a fila de ativos
-    "workflow13": "1390", #workflow para campo sem fuso horario ser atualizado. 
-    "workflow14": "1426", #workflow que muda o campo de Relatorio data. 
-    "workflow15": "1428", #workflow que muda o campo de Relatorio data/hora. 
+    "workflow13": "1390", #workflow para campo sem fuso horario ser atualizado.
+    "workflow14": "1426", #workflow que muda o campo de Relatorio data.
+    "workflow15": "1428", #workflow que muda o campo de Relatorio data/hora.
     "workflow16": "1474",
     "workflowredeneutra": "1502",
     "workflowouro": "1496",
     "workflowpadrao": "1498",
     "workflowprata": "1500",
-    "workflowofertaspecial": "1682",
+    "workflow_grafeno_75": "1682", # Planos oferta especial vero grafeno 75
+    "workflow_grafeno_80": "1852", # Planos oferta especial vero grafeno 80
+    "workflow_safira": "1854", # Planos oferta especial vero safira
     "workflowt1_a_t9": "1668",
     "workflowt10_t14": "1670",
     "workflowt_ALTOS_PARNAIBA_TERESINA": "1672",
@@ -124,7 +126,9 @@ WORKFLOW_IDS = {
     "workflow_vencimento": "1630",
     "workflow_saudademelhorfibra": "1652",
     "workflow_formatacao_nome_primeiro_boleto_vero": "1702",
-    "workflow_cep-adress": "1744"
+    "workflow_cep-adress": "1744",
+    "workflow_bl-fibra": "1856", # Planos BL FIBRA
+    "utm": "1862" # Workflow teste de UTMS
 }
 
 
