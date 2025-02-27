@@ -128,7 +128,15 @@ WORKFLOW_IDS = {
     "workflow_formatacao_nome_primeiro_boleto_vero": "1702",
     "workflow_cep-adress": "1744",
     "workflow_bl-fibra": "1856", # Planos BL FIBRA
-    "utm": "1862" # Workflow teste de UTMS
+    "utm": "1862", # Workflow teste de UTMS
+    # Pra baixo, workflows dos clusters da Desktop
+    "workflow_desktop-padrao": "1890",
+    "workflow_desktop-barretos": "1892",
+    "workflow_desktop-tiosam": "1894",
+    "workflow_fasternet-padrao": "1896",
+    "workflow_fasternet-tiosam": "1898",
+    "workflow_lpnet-padrao": "1900",
+    "workflow_lpnet-tiosam": "1902"
 }
 
 
