@@ -136,7 +136,9 @@ WORKFLOW_IDS = {
     "workflow_fasternet-padrao": "1896",
     "workflow_fasternet-tiosam": "1898",
     "workflow_lpnet-padrao": "1900",
-    "workflow_lpnet-tiosam": "1902"
+    "workflow_lpnet-tiosam": "1902",
+    # Workflow send plans geral
+    "workflow_send_plans_geral": "1940",
 }
 
 
