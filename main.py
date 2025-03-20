@@ -139,6 +139,8 @@ WORKFLOW_IDS = {
     "workflow_lpnet-tiosam": "1902",
     # Workflow send plans geral
     "workflow_send_plans_geral": "1940",
+    # Workflow Pos Venda Cobrança
+    "cobranca": "1962",
 }
 
 
