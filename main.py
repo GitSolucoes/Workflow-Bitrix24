@@ -141,6 +141,8 @@ WORKFLOW_IDS = {
     "workflow_send_plans_geral": "1940",
     # Workflow Pos Venda Cobrança
     "cobranca": "1962",
+    # Fluxo de cobrança
+    "fluxo_cobranca": "2028",
 }
 
 
