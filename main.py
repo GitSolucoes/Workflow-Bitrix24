@@ -144,7 +144,8 @@ WORKFLOW_IDS = {
     # Fluxo de cobrança
     "fluxo_cobranca": "2028",
     # TESTE VINICIUS DB SHEET
-    "teste_db_sheet": "2032"
+    "teste_db_sheet": "2032",
+    "workflow_webhook_tintim": "2060",
 }
 
 
