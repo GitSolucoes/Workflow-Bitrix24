@@ -45,7 +45,7 @@ def make_request_with_retry(url, data, max_retries=3, retry_delay=5):
 
 
 def update_card_bitrix(card_id, name_of_field, value):
-    url = f"{BASE_URL_API_BITRIX}/{PROFILE}/{CODIGO_BITRIX}/crm.deal.update"
+    url = f"{BITRIX_URL}/crm.deal.update"
     data = {
         'id': card_id,
         'fields': {
