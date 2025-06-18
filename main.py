@@ -146,6 +146,8 @@ WORKFLOW_IDS = {
     # TESTE VINICIUS DB SHEET
     "teste_db_sheet": "2032",
     "workflow_webhook_tintim": "2060",
+    "workflow_8danoite": "2188",
+    "workflow_8damanha": "2184"
 }
 
 
